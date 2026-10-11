@@ -12,7 +12,7 @@ Arquivo **único e autocontido** — clique duplo, sem servidor. **Dados 100% fi
 - **Tema claro/escuro** (tecla `T`), réguas de entregas do mês, anéis de score.
 - Paleta de status verde/laranja/vermelho — **sem dependências externas** (só CSS/JS puro).
 
-Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados · Analytics Engineering · Fundação dos Dados · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 
 <details>
 <summary>🇬🇧 <b>English</b></summary>
@@ -31,5 +31,5 @@ targets, with a traffic-light system, monthly ranking and a celebration when a g
 - **Light/dark theme** (press `T`), monthly delivery rulers, score rings.
 - Status palette green/orange/red — **no external dependencies** (pure CSS/JS).
 
-Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst · Analytics Engineering · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 </details>
